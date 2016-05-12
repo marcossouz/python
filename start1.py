@@ -1,5 +1,7 @@
 #p.py
 #4 programas iniciais em python
+# lista de exercicios
+
 print('-----programa1-----')
 print ('Alo mundo python')
 
