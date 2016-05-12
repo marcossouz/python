@@ -1,4 +1,4 @@
-# programa5
+# exercicios de 5 a 8
 
 print('programa5\n')
 print('Conversor de metros em centimetros')
