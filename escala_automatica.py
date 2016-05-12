@@ -1,3 +1,7 @@
+#
+# Gera uma escala automatica para a banda da igreja
+#
+
 import random
 print('Gerador de Escalas Ministerio de louvor\n')
 
@@ -5,6 +9,7 @@ print('Gerador de Escalas Ministerio de louvor\n')
 
 vocais = ['Marcos', 'Juninho', 'Joyce', 'Raquel', 'Elly', 'Witalla', 'Mary 2']
 backVocal = ['Geivison', 'Lindines', 'Luciano', 'Neidinha']
+
 #print(len(vocais)) #Quantidade de vocais
 guitarra = ['Marcos', 'Juninho', 'Bruninho']
 violao = ['Natalia', 'Elly', 'Raquel']
