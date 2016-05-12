@@ -1,3 +1,8 @@
+#
+#	Escreve duas linhas no arquivo in.txt
+#	Uma por vez
+#
+
 fout = open('in.txt', 'w')
 print (fout)
 
