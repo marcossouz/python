@@ -1,3 +1,7 @@
+#
+#	pacote grafico tkinter
+#
+
 from tkinter import *
 from collections import __main__
 

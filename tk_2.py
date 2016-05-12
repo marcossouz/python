@@ -1,3 +1,5 @@
+# interface com python
+
 import tkinter as tk
 
 class Demo1:

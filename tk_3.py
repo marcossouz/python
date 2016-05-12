@@ -1,3 +1,5 @@
+# interface - pacote tkinter
+
 from tkinter import *
 
 class Application:
