@@ -1,3 +1,4 @@
+#exercicios 12 e 13
 
 print('prog 12\n')
 alt = float(input('entre com a altura: '))
