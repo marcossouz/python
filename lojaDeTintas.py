@@ -1,3 +1,5 @@
+#exercicio 16
+
 print ('16. loja de tintas\n')
 
 tam = float(input('metros quadrados a ser pintado: '))
